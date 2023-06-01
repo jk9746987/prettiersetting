@@ -7,3 +7,7 @@ let tom: Person = {
   name: 'Tom',
   age: 25
 };
+
+function test(){
+    return 'hahaha'
+}
